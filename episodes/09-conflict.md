@@ -343,7 +343,6 @@ correctly. If you find yourself resolving a lot of conflicts in a project,
 consider these technical approaches to reducing them:
 
 - Pull from upstream more frequently, especially before starting new work
-- Use topic branches to segregate work, merging to main when complete
 - Make smaller more atomic commits
 - Push your work when it is done and encourage your team to do the same to reduce work in progress and, by extension, the chance of having conflicts
 - Where logically appropriate, break large files into smaller ones so that it is
